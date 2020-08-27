@@ -8,4 +8,4 @@ For viewing both the Covid-19-Analysis and Covid-19-World-Map-Plot files on **Nb
   2) [Covid-19-World-Map-Plot](https://nbviewer.jupyter.org/github/sarveshggn/Covid-19-Analysis-and-Tracking/blob/master/Covid-19-World-Map-Plot.ipynb)<br />**
 <br />
 All these interactive plots are made with the help of **plotly** and **cufflinks**.<br />
-This repo will be updated **daily** based on new cases.<br />
+This repo will be updated ***daily*** based on new cases.<br />
